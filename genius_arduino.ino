@@ -1,6 +1,6 @@
 /**
-   Arduino GENIUS
-   @author Professor José de Assis
+   Arduino GENIUS 
+   @author Professor José de Assis (Pensa no cara brabo)
    https://www.youtube.com/playlist?list=PLbEOwbQR9lqzta3bQTkwDWtkne6I8LOBg
 */
 
